@@ -1,0 +1,12 @@
+/* AnimatedSlider.css */
+.animated-slider{
+  width: 100%;
+}
+.animated-slider .slick-slide {
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .animated-slider .slick-slide img {
+    width: 100%;
+  }
+  

@@ -1,0 +1,315 @@
+[
+    {
+      "id": 1,
+      "img": [
+        {
+          "original": "<AC1>",
+          "thumbnail": "<AC1>"
+        },
+        {
+          "original": "<AC2>",
+          "thumbnail": "<AC2>"
+        },
+        {
+          "original": "<AC3>",
+          "thumbnail": "<AC3>"
+        },
+        {
+          "original": "<AC5>",
+          "thumbnail": "<AC5>"
+        },
+        {
+          "original": "<AC4>",
+          "thumbnail": "<AC4>"
+        }
+      ],
+      "availability": true,
+      "tag": "500+ BOUGHT",
+      "title": "Domesta (by Vijay Sales) 1 Ton (3 Star - Inverter) Split AC",
+      "price_before": "Rs 40000",
+      "price_after": "Rs 36000",
+      "bottom": "Standard EMI starting from ₹1,163/month",
+      "features": [
+        "1 Ton Capacity (Suitable for Areas upto 120 Sq Ft)",
+        "3 Star Energy Rating with Inverter Technology",
+        "M",
+        "L",
+        "XL"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 2,
+      "img": [
+        {
+          "original": "<AC2>",
+          "thumbnail": "<AC2>"
+        },
+        {
+          "original": "<AC2>",
+          "thumbnail": "<AC2>"
+        },
+        {
+          "original": "<AC3>",
+          "thumbnail": "<AC3>"
+        },
+        {
+          "original": "<AC5>",
+          "thumbnail": "<AC5>"
+        },
+        {
+          "original": "<AC4>",
+          "thumbnail": "<AC4>"
+        }
+      ],
+      "availability": true,
+      "tag": "Lowest Price Ever",
+      "title": "Voltas 1.5 Ton (5 Star - Inverter) Window AC with Anti Dust Filter, ",
+      "price_before": "Rs 38000",
+      "price_after": "Rs 22000",
+      "bottom": "Standard EMI starting from ₹1,003/month",
+      "features": [
+        "1 Ton Capacity (Suitable for Areas upto 120 Sq Ft)",
+        "3 Star Energy Rating with Inverter Technology",
+        "M",
+        "L",
+        "XL"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 3,
+      "img": [
+        {
+          "original": "<AC3>",
+          "thumbnail": "<AC3>"
+        },
+        {
+          "original": "<AC2>",
+          "thumbnail": "<AC2>"
+        },
+        {
+          "original": "<AC3>",
+          "thumbnail": "<AC3>"
+        },
+        {
+          "original": "<AC5>",
+          "thumbnail": "<AC5>"
+        },
+        {
+          "original": "<AC4>",
+          "thumbnail": "<AC4>"
+        }
+      ],
+      "availability": true,
+      "tag": "JUST HERE",
+      "title": "Voltas 1 Ton (3 Star - Inverter) 4 in 1 Adjustable Split AC",
+      "price_before": "Rs 39000",
+      "price_after": "Rs 24000",
+      "bottom": "Standard EMI starting from ₹1,003/month",
+      "features": [
+        "1 Ton Capacity (Suitable for Areas upto 120 Sq Ft)",
+        "3 Star Energy Rating with Inverter Technology",
+        "M",
+        "L",
+        "XL"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 4,
+      "img": [
+        {
+          "original": "<AC4>",
+          "thumbnail": "<AC4>"
+        },
+        {
+          "original": "<AC2>",
+          "thumbnail": "<AC2>"
+        },
+        {
+          "original": "<AC3>",
+          "thumbnail": "<AC3>"
+        },
+        {
+          "original": "<AC5>",
+          "thumbnail": "<AC5>"
+        },
+        {
+          "original": "<AC4>",
+          "thumbnail": "<AC4>"
+        }
+      ],
+      "availability": true,
+      "tag": "lowest price ever",
+      "title": "Voltas 1 Ton (3 Star - Inverter) 4 in 1 Adjustable Split AC",
+      "price_before": "Rs 56000",
+      "price_after": "Rs 31000",
+      "bottom": "Standard EMI starting from ₹1,003/month",
+      "features": [
+        "1 Ton Capacity (Suitable for Areas upto 120 Sq Ft)",
+        "3 Star Energy Rating with Inverter Technology",
+        "M",
+        "L",
+        "XL"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 5,
+      "img": [
+        {
+          "original": "<AC5>",
+          "thumbnail": "<AC5>"
+        },
+        {
+          "original": "<AC2>",
+          "thumbnail": "<AC2>"
+        },
+        {
+          "original": "<AC3>",
+          "thumbnail": "<AC3>"
+        },
+        {
+          "original": "<AC5>",
+          "thumbnail": "<AC5>"
+        },
+        {
+          "original": "<AC4>",
+          "thumbnail": "<AC4>"
+        }
+      ],
+      "availability": true,
+      "tag": "lowest price ever",
+      "title": "Voltas 1 Ton (3 Star - Inverter) 4 in 1 Adjustable Split AC",
+      "price_before": "Rs 26000",
+      "price_after": "Rs 21000",
+      "bottom": "Standard EMI starting from ₹1,003/month",
+      "features": [
+        "1 Ton Capacity (Suitable for Areas upto 120 Sq Ft)",
+        "3 Star Energy Rating with Inverter Technology",
+        "M",
+        "L",
+        "XL"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 6,
+      "img": [
+        {
+          "original": "<AC1>",
+          "thumbnail": "<AC1>"
+        },
+        {
+          "original": "<AC2>",
+          "thumbnail": "<AC2>"
+        },
+        {
+          "original": "<AC3>",
+          "thumbnail": "<AC3>"
+        },
+        {
+          "original": "<AC5>",
+          "thumbnail": "<AC5>"
+        },
+        {
+          "original": "<AC4>",
+          "thumbnail": "<AC4>"
+        }
+      ],
+      "availability": true,
+      "tag": "lowest price ever",
+      "title": "Voltas 1 Ton (3 Star - Inverter) 4 in 1 Adjustable Split AC",
+      "price_before": "Rs 60000",
+      "price_after": "Rs 56000",
+      "bottom": "Standard EMI starting from ₹1,003/month",
+      "features": [
+        "1 Ton Capacity (Suitable for Areas upto 120 Sq Ft)",
+        "3 Star Energy Rating with Inverter Technology",
+        "M",
+        "L",
+        "XL"
+      ],
+      "rate": 5
+    },
+    {
+      "id": 7,
+      "img": [
+        {
+          "original": "<AC2>",
+          "thumbnail": "<AC2>"
+        },
+        {
+          "original": "<AC2>",
+          "thumbnail": "<AC2>"
+        },
+        {
+          "original": "<AC3>",
+          "thumbnail": "<AC3>"
+        },
+        {
+          "original": "<AC5>",
+          "thumbnail": "<AC5>"
+        },
+        {
+          "original": "<AC4>",
+          "thumbnail": "<AC4>"
+        }
+      ],
+      "availability": true,
+      "tag": "500+ BOUGHT",
+      "title": "Domesta (by Vijay Sales) 1 Ton (3 Star - Inverter) Split AC",
+      "price_before": "Rs 50000",
+      "price_after": "Rs 45000",
+      "bottom": "Standard EMI starting from ₹1,163/month",
+      "features": [
+        "1 Ton Capacity (Suitable for Areas upto 120 Sq Ft)",
+        "3 Star Energy Rating with Inverter Technology",
+        "M",
+        "L",
+        "XL"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 8,
+      "img": [
+        {
+          "original": "<AC3>",
+          "thumbnail": "<AC3>"
+        },
+        {
+          "original": "<AC2>",
+          "thumbnail": "<AC2>"
+        },
+        {
+          "original": "<AC3>",
+          "thumbnail": "<AC3>"
+        },
+        {
+          "original": "<AC5>",
+          "thumbnail": "<AC5>"
+        },
+        {
+          "original": "<AC4>",
+          "thumbnail": "<AC4>"
+        }
+      ],
+      "availability": true,
+      "tag": "500+ BOUGHT",
+      "title": "Domesta (by Vijay Sales) 1 Ton (3 Star - Inverter) Split AC",
+      "price_before": "Rs 36000",
+      "price_after": "Rs 35000",
+      "bottom": "Standard EMI starting from ₹1,163/month",
+      "features": [
+        "1 Ton Capacity (Suitable for Areas upto 120 Sq Ft)",
+        "3 Star Energy Rating with Inverter Technology",
+        "M",
+        "L",
+        "XL"
+      ],
+      "rate": 4
+    }
+  ]
+  
